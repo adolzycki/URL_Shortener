@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 django = "4.1.7"
+djangorestframework = "*"
+markdown = "*"
+python-decouple = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
